@@ -11,12 +11,13 @@ function draw() {
   // ADD CATCHER
   // Add your catcher by calling its function with appropriate parameters.
   fill("greenyellow");
-  alienSprite();
+  alienSprite(mouseX,300,1);
 }
 
 // CATCHER
 function alienSprite(x,y,size){
   translate (x,y);
+  translate (0, -300);
   scale(size);
   //alienhead
   noStroke();
