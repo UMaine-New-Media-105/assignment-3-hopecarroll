@@ -9,5 +9,5 @@ Link to sketch: https://editor.p5js.org/hopecarroll/sketches/i_Vo2ESHQ
 Challenge 3, assignment 2: Using an if statement I added to my green alien sprite so when the MouseIsPressed command is called the ears of my alien turn from yellowgreen to yellow when I press my mouse on the canvas. I created this function by copy and pasting my original code from the alien ears into the if statement and then adding an else statement with the same code expect for the stroke color to turn the ears yellow. 
 Link to sketch: https://editor.p5js.org/hopecarroll/sketches/m8V9Dn6OD
 
-Challenge 3, assignment 3: 
+Challenge 3, assignment 3: Using a function I created a green star to be used as the "seed" that my alien will catch for my game. I then called the star function and assigned the variables starX and starY which I called earlier and assigned random (400) to both of them so the star will start in a random position each time I press play. I also created the variable starSpeed and added that to my starY variable to make it move vertically down. 
 Link to sketch: https://editor.p5js.org/hopecarroll/sketches/5caIp6YXd 
